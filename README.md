@@ -8,7 +8,7 @@ Story published: [The Times, December 8 2016](http://www.thetimes.co.uk/edition/
 
 Behind the numbers: [Foreign aid: behind the numbers](http://www.thetimes.co.uk/article/foreign-aid-behind-the-numbers-5nbdjt0tx?shareToken=6f8ce65f74efa4d0a85727e42759ca8a) 
 
-Get the data: [DFID spending records](DFID%20spending%20records%20and%20Times%20categorisation%20for%20release_22_12_2016.xlsx)
+Get the data: [Dfid spending records](Dfid%20spending%20records%20and%20Times%20categorisation%20for%20release_22_12_2016.xlsx)
 
 ## GPs award £2.4bn deals to their own companies
 Story published: [The Times, November 11 2015](http://www.thetimes.co.uk/tto/health/news/article4610741.ece)
